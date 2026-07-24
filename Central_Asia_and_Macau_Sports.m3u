@@ -1,0 +1,103 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="TM ❖ Turkmenistan",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="TM ❖ Turkmenistan",TM | Türkmenistan TV,Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="TM ❖ Turkmenistan",Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Aqlvoy (480p)
+http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ Music (1080p)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ TV (1080p)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Bolajon (480p)
+http://gohoski.fvds.ru:3000/mediabay/148/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Dasturxon TV (576p)
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Dunyo bo'ylab (1080p)
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",FTV (576p)
+https://stream8.cinerama.uz/1018/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",MY5
+https://st.my5.media/hls/hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Madaniyat va ma'rifat (480p)
+http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Mahalla (480p)
+http://gohoski.fvds.ru:3000/mediabay/394/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Milliy (1080p)
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Navo (480p)
+http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston (480p)
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston 24 (1080p)
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston Tarixi (1080p)
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Qaraqalpaqstan (720p)
+https://stream8.cinerama.uz/1467/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Renessans TV (576p)
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Sevimli TV (1080p)
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Toshkent (480p)
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",UzReport TV (1080p)
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Yoshlar (1080p)
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju TV1000
+http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju TV1000 russkoe
+http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju+ Sport
+http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="MO" group-title="MO ❖ Macau Sports",Macau Sports
+https://cdn.qd.je/163189.php?id=amty
