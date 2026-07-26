@@ -1,0 +1,672 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="TM ❖ Turkmenistan",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="TM ❖ Turkmenistan",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="TM ❖ Turkmenistan",TM | Türkmenistan TV,Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="TM ❖ Turkmenistan",Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Tajikistan (OK.ru backup)
+https://ok.ru/video/3116886400596
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="TJ ❖ Tajikistan",Tajikistan (3M backup)
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Aqlvoy (480p)
+http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ Music (1080p)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",BIZ TV (1080p)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Bolajon (480p)
+http://gohoski.fvds.ru:3000/mediabay/148/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Bolajon (486p)
+https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Dasturxon TV (576p)
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Dunyo bo'ylab (1080p)
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",FTV (576p)
+https://stream8.cinerama.uz/1018/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Madaniyat va ma'rifat (480p)
+http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Mahalla (480p)
+http://gohoski.fvds.ru:3000/mediabay/394/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",MY5
+https://st.my5.media/hls/hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Navo (480p)
+http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston 24 (1080p)
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston (480p)
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston Tarixi (1080p)
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Renessans TV (576p)
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Sevimli TV (1080p)
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Toshkent (480p)
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju+ Sport
+http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",viju TV1000 russkoe
+http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Yoshlar (1080p)
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",УТРК (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",УТРК Спорт (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",Next TV (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",TV15 (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KG" tvg-logo="" group-title="KG ❖ Kyrgyzstan",TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",31 Kanal
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Alau TV (576p)
+https://otv.wotom.net/alau/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/DaYMzz8.jpg" group-title="KZ ❖ Kazakhstan",Atameken Business
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Kókshe (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Mańǵystaý (540p) [Not 24/7]
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Qazaqstan TV International (1080p)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan",QAZSPORT HD
+http://77.245.98.18:8000/play/529
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",7 канал (Казахстан)
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",31 Канал (Казахстан)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",Qazaqstan (Казахстан)
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",Астана ТВ (Казахстан)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",КТК (Казахстан)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 group-title="KZ ❖ Kazakhstan" tvg-rec="7" timeshift="7",НТК (Казахстан)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Alau TV (backup)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",JJTV
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8?ds=ex6r514&ss=8XzShtpm66dMcn4g9wTvodK0hjoUX2xDu8JVa2f4
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",JJTV (alternate)
+https://stream.qazcdn.net/ex6r514/jjtv/tracks-v1a1/mono.ts.m3u8?ds=ex6r514&ss=8XzShtpm66dMcn4g9wTvodK0hjoUX2xDu8JVa2f4
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Silk Way (backup)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY-avc1_2200000=10000.m3u8
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Silk Way Cinema
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8?ds=ex6r514&ss=KHIOE2ilVGXBzjAoZQmfHyONnQtqRghpT6nSMZK0
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="KZ ❖ Kazakhstan",Kazakhstan Live
+https://cdn-media-content.onestream.studio/content/hls/live/live_1741993_qvolgw9ut/hls.m3u8
+#EXTINF:0 tvg-country="MV" tvg-logo="" group-title="MV ❖ Maldives",MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NP" tvg-logo="" group-title="NP ❖ Nepal",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NP" tvg-logo="" group-title="NP ❖ Nepal",Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",台视 (720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",CTi Variety (中天綜合台) (720p)
+http://23.237.10.66:16372?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",CTS (HUA-CHI CTS) (1080p)
+rtmp://59.124.75.138:1935/sat/tv111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",EBC Foreign Movie (東森洋片) (1080p)
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",EBC Movie (東森電影) (1080p)
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",GOOD TV CH12 維他命施 (720p)
+https://live.streamingfast.net/osmflivech12.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TW ❖ Taiwan",立法院IVOD直播內政委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TW ❖ Taiwan",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="CN ❖ China",CCTV 央视台球
+http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="CN ❖ China",CCTV 兵器科技
+http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="CN ❖ China",CCTV 女性时尚
+http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="CN ❖ China",CCTV 风云足球
+http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="CN ❖ China",CCTV-10 (2160p)
+http://123.175.209.52:9003/hls/11/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="CN ❖ China",CCTV-11 (576p)
+http://123.175.209.52:9003/hls/12/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="CN ❖ China",CCTV-12 (2160p)
+http://123.175.209.52:9003/hls/13/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",CCTV-13 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="CN ❖ China",CCTV-14 (2160p)
+http://123.175.209.52:9003/hls/15/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="CN ❖ China",CCTV-16 (2160p)
+http://123.175.209.52:9003/hls/17/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",CCTV-1 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="CN ❖ China",CCTV-6 (2160p)
+http://123.175.209.52:9003/hls/7/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",CCTV-8 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",CCTV-9 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/U73Q4NW.png" group-title="CN ❖ China",CCTV TV Guide (576p)
+http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="CN ❖ China",CETV1 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="CN ❖ China",CETV2 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="CN ❖ China",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="CN ❖ China",CGTN Español
+http://livees.cgtn.com/500e/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",DOX Yijia
+http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",Fuping TV-1
+http://124.47.34.189/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?RTS=1640046896&from=1&hms_devid=203&icpid=88888888&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",Fuping TV-2
+http://124.47.34.188/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?RTS=1640099099&from=1&hms_devid=203&icpid=88888888&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",HOY TV開電視
+https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/3p3yKKG.png" group-title="CN ❖ China",Lasa TV
+https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CN ❖ China",NewTV动画王国 (1080p)
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MN ❖ Mongolia",MNB
+https://live.mnb.mn/hls/mnb.stream.m3u8
+#EXTINF:-1 group-title="MN ❖ Mongolia",MN2
+https://live.mnb.mn/hls/mn2.stream.m3u8
+#EXTINF:-1 group-title="MN ❖ Mongolia",MNB World
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 group-title="MN ❖ Mongolia",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="MO ❖ Macau",AMTV
+https://cdn.qd.je/163189.php?id=amty
+#EXTINF:-1 group-title="MO ❖ Macau",TDM Canal Macau
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="MO ❖ Macau",TDM Ou Mun
+https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="MO ❖ Macau",TDM Information
+https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="MO ❖ Macau",TDM Sports
+https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="MO ❖ Macau",TDM HD
+https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="KP ❖ North Korea",KCTV
+https://koryo.tv/kctvpreview.mp4
+#EXTINF:-1 group-title="MV ❖ Maldives",MMTV 2
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 group-title="MV ❖ Maldives",Raajje TV
+https://stream.raajje.mv/live/stream_c95ravtr7cyk/audio2_stream.m3u8
+#EXTINF:-1 group-title="MV ❖ Maldives",SSTV
+https://sstv-stream.sunplay.mv/hls/sstv-live/index.m3u8
+#EXTINF:-1 group-title="LK ❖ Sri Lanka",Rupavahini TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_higher/index.m3u8
+#EXTINF:-1 group-title="LK ❖ Sri Lanka",Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:0 tvg-country="LK" tvg-logo="" group-title="LK ❖ Sri Lanka",NDTV Lanka
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LA ❖ Laos",Khao Mwung Mai
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8?_=1784904649300
+#EXTINF:-1 group-title="LA ❖ Laos",Lao TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8?_=1784904698823
+#EXTINF:-1 group-title="LA ❖ Laos",Lao Net
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8?_=1784904761343
+#EXTINF:-1 group-title="LA ❖ Laos",Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/chunklist.m3u8?_=1784904887069&_=1784904898020
+#EXTINF:-1 group-title="LA ❖ Laos",Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8?_=1784904917819&_=1784904929084
+#EXTINF:-1 group-title="JP ❖ Japan",TBS
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="JP ❖ Japan",NTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="JP ❖ Japan",Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="KR ❖ South Korea",KBS? 1
+https://lbgo.bozztv.com/ssh101/ssh101/leafywind/playlist.m3u8
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 2
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=1%2Csd%2Cl&auth=0026913807e74896c6219d29e51082e019f94ad9db0
+#EXTINF:-1 group-title="KR ❖ South Korea",Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel N91
+https://p.skypeak.cloud/stream.m3u8?type=k&id=N91%2Ct&nr=&auth=395607fa9897e7f3ae4146829f41a8d219f94afe325
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel N92
+https://p2.skypeak.cloud/stream.m3u8?type=k&id=N92%2Ct&nr=&auth=d848aac3bf88b25b58ebcfe6494ac17e19f94b0581e
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel N96
+https://p.skypeak.cloud/stream.m3u8?type=k&id=N96%2Ct&nr=&auth=727d431589a2ab0318bb1bd116c2432319f94b0d2c9
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel N93
+https://p.skypeak.cloud/stream.m3u8?type=k&id=N93%2Ct&nr=&auth=baf5bb616cdecb5de94839ff8eb569e419f94b16323
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel N94
+https://p.skypeak.cloud/stream.m3u8?type=k&id=N94%2Ct&nr=&auth=773607c1d8ed513c057b1dd9b30a9fd419f94b1e818
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 14
+https://p2.skypeak.cloud/stream.m3u8?type=k&id=14%2Ct&nr=&auth=34bc7b7991e5db60a3e5d59b651ea4bf19f94b242c4
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 6
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=7bdd77bb4378ec7534371ae0f7972ec719f94b50002
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 4
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=4%2Csd%2Cl&auth=ca0295382266554beddb06b8b5ce8c2619f94b56f52
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 5
+https://p.skypeak.cloud/stream.m3u8?type=s&id=5%2Csd%2Cl&auth=77e5044726ca189d75fa111653d29ce319f94b5ed3a
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 11
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=11%2Csd%2Cl&auth=615ccef536f16a4948c35f191d9d122119f94b63e50
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 3
+https://p.skypeak.cloud/stream.m3u8?type=s&id=3%2Csd%2Cl&auth=b1c75c3e85f1fb9832f9df00b6a3b01b19f94b68772
+#EXTINF:-1 group-title="KR ❖ South Korea",Channel 2B
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=2%2Csd%2Cl&auth=b81fc6c7e61fe0c8a59cfcc58a00db7219f94b6df0c
+#EXTINF:-1 group-title="KR ❖ South Korea",Media
+https://p.skypeak.cloud/media.m3u8?id=27ee6a0cecb19b006ed4e3f5ee7f5bfb&mt=m3u8&ix=ll5aoFJLd1Az8YZySl%2FdlqitzuFFguLHpVj933rDb%2FNR7c%2BSeMX3dbxyMg%2FNNzGxoyAjc28GX5ijICLTb6Hx0pnSew8lrxY2CIfdyygSM%2B9rHGq9O4Dk9kVrepfLJkWb7E6hyte8f3HqfbDPlAT5XHIuL%2FVMxIBtHLTWX9dsgCw3JeF%2FBRHC%2BI8PS1rgSAKMgIHiwRtx6iexlzJBpXfKocvDUPU3xkdtbN9SJB9guPosailMuPGiQ6duC3N7OHCW6Imvk8%2FfPnZIRBGTdR8xgFhjFxC6aF%2FSI0deplQqK2c%3D
+#EXTINF:-1 group-title="🏆 Sports Channels",Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="🏆 Sports Channels", Суспільне Київ
+#EXTVLCOPT:http-user-agent=UA
+#EXTINF:-1 group-title="🏆 Sports Channels",sport m
+http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
+#EXTINF:-1 group-title="🏆 Sports Channels",M Sport vpn
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Окко Спорт 2
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="🏆 Sports Channels",Setanta Sports 2 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 group-title="🏆 Sports Channels",Setanta Sports 3 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 group-title="🏆 Sports Channels",Silk Sport 4
+http://158.101.222.193:88/georgia_play.php?id=silk_sport4
+#EXTINF:-1 group-title="🏆 Sports Channels",Viasat Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="🏆 Sports Channels",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="🏆 Sports Channels",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч TV
+http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч ТВ
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="🏆 Sports Channels",Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",KHL
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",KHL
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",FUTBOL UZ
+https://stream8.cinerama.uz/7010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Игра HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",sport Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+#EXTINF:-1 group-title="🏆 Sports Channels",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Bein Sport HD 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Bein Sport 2 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Bein Sport 3 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Euro Sport 1 HD 🇫🇷
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN Premium HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN2 HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN4 HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0og/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN5 HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN6 HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN7 HD Испания 🇪🇸
+http://181.224.255.210:8001/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 1 HD
+http://178.253.194.79:10006
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 2 HD
+http://178.253.194.79:10007
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 3 HD
+http://178.253.194.79:10008
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 4 HD
+http://178.253.194.79:10009
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 5 HD
+http://178.253.194.79:10010
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 6 HD
+http://178.253.194.79:10011
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 7 HD
+http://178.253.194.79:10012
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 8 HD
+http://178.253.194.79:10013
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 1 Premium HD
+http://178.253.194.79:10001
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 2 Premium HD
+http://178.253.194.79:10004
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 3 Premium HD
+http://178.253.194.79:10005
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 4 Premium HD
+http://178.253.194.79:10016
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Sport 5 Premium HD
+http://178.253.194.79:10017
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Tennis HD
+http://178.253.194.79:10019
+#EXTINF:-1 group-title="🏆 Sports Channels",Arena Adrenalin HD
+http://178.253.194.79:10018
+#EXTINF:-1 group-title="🏆 Sports Channels",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🏆 Sports Channels",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",AYM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+#EXTINF:-1 group-title="🏆 Sports Channels",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ONEPLAY1-kolo cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels",ONEPLAY2-kolo cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", ONEPLAY3-kolo cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", EUROSPORT1-ali3 cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", EUROSPORT2-ali3 cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", PREMIER SPORT1 cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", PREMIER SPORT2 cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels", SPORTY TV-kolo cz
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels",SKY TENIS IT aliex2 it
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🏆 Sports Channels",Nova Sport HD BG
+http://213.91.179.28:8000/play/a04a
+#EXTINF:-1 group-title="🏆 Sports Channels",Diema Sport HD BG
+http://213.91.179.28:8000/play/a06q
+#EXTINF:-1 group-title="🏆 Sports Channels",Diema Sport 2 HD BG
+http://213.91.179.28:8000/play/a08e
+#EXTINF:-1 group-title="🏆 Sports Channels",Diema Sport 3 HD BG
+http://213.91.179.28:8000/play/a08f
+#EXTINF:-1 group-title="🏆 Sports Channels",MAX Sport 1 HD BG
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 group-title="🏆 Sports Channels",MAX Sport 2 HD BG
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 group-title="🏆 Sports Channels",MAX Sport 3 HD BG
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 group-title="🏆 Sports Channels",Max Sport 4 BG
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 group-title="🏆 Sports Channels",Ring HD BG 
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 group-title="🏆 Sports Channels",Fight Club HD BG
+http://213.91.179.28:8000/play/a08i
+#EXTINF:-1 group-title="🏆 Sports Channels",MMA-TV BG
+http://213.91.179.28:8000/play/a048
+#EXTINF:-1 group-title="🏆 Sports Channels",BNT 3 HD BG
+http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 group-title="🏆 Sports Channels",BNT 4 BG
+http://213.91.179.28:8000/play/a04u
+#EXTINF:-1 group-title="🏆 Sports Channels",Tr VPN SPORT 1
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Tr VPN SPORT 2
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",Tr VPN SPORT 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",SPORTV 1
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",SPORTV 2
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",SPORTV 3
+http://177.52.24.163/SPORTV-3-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN 1
+http://177.52.24.163/ESPN-1-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN 2
+http://177.52.24.163/ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN 3
+http://177.52.24.163/ESPN-3-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN 4
+http://177.52.24.163/ESPN-4-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",ESPN 5
+http://177.52.24.163/ESPN-5-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",PREMIERE 1
+http://177.52.24.163/PREMIERE-1-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",PREMIERE 2
+http://177.52.24.163/PREMIERE-2-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",PREMIERE 3
+http://177.52.24.163/PREMIERE-3-HD/index.m3u8
+#EXTINF:-1 group-title="🏆 Sports Channels",PREMIERE 4
+http://177.52.24.163/PREMIERE-4-HD/index.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Zor TV HD
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Uzbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Turan TV
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",TRT Haber
+https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",TRT Avaz
+https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Taraqqiyot TV UZ
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Sevimili UZ
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Renessans TV UZ
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Ozbekiston Tarixi HD UZ
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Uzbekistan 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Nurafshon TV UZ
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Ntv UZ
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Navo
+https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",NHK World Japan
+https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Myday TV
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",My5 UZ
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Milliy TV UZ
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Mening Yurtim FHD UZ
+https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Madaniyat va marifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Lux TV
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Istiqlol TV
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Dunyo bo`ylab UZ
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Bolajon
+https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",Biz Cinema UZ
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",BizTV HD UZ
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",ITV Cinema
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:-1 group-title="UZ ❖ Uzbekistan",ITV Music
+https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Bolajon (Cinerama)
+https://stream8.cinerama.uz/1007/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Madaniyat va ma'rifat (Cinerama)
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Mahalla (Cinerama)
+https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Milliy TV
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",MY5 (Cinerama)
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Navo (Cinerama)
+https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston 24 (Cinerama backup)
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",O'zbekiston Tarixi (Cinerama backup)
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 1
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 2
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 3
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 4
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 5
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Cinerama 1467 - Stream 6
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Football - Stream 1
+https://cache8.cinerama.uz/blocked-football/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Football - Stream 2
+https://cache8.cinerama.uz/blocked-football/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="UZ ❖ Uzbekistan",Football - Stream 3
+https://cache8.cinerama.uz/blocked-football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KG ❖ Kyrgyzstan",312
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
+#EXTINF:-1 group-title="KG ❖ Kyrgyzstan",312Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="HK ❖ Hong Kong",RTHK News
+https://newsstatic.rthk.hk/videos/vfile_1863189_1_20260722200149.mp4
+#EXTINF:-1 group-title="MM ❖ Myanmar",MiTV
+https://s.myanmaritv.com/hls/mitv.m3u8
+#EXTINF:0 tvg-country="MM" group-title="MM ❖ Myanmar",Myanmar Channel 11
+https://list.iptvcat.com/my_list/s/698ac08d894a4bafeb10297d6e6e07be.m3u8
+#EXTINF:0 tvg-country="MM" group-title="MM ❖ Myanmar",Myanmar Channel 12
+https://list.iptvcat.com/my_list/s/c90c28c4ba9ffefebc48a4db66ae6e97.m3u8
+#EXTINF:0 tvg-country="MM" group-title="MM ❖ Myanmar",Myanmar Channel 13
+https://list.iptvcat.com/my_list/s/50a720a6af8eeac2b6b87c991c0c3f8a.m3u8
+
+#EXTINF:0 tvg-country="KH" group-title="KH ❖ Cambodia",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:0 tvg-country="KH" group-title="KH ❖ Cambodia",TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
