@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Altyn Asyr TV
 https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TM" tvg-logo="https://i.imgur.com/JdEb4Ug.png" group-title="TM ❖ Turkmenistan",Arkadag TV (406p) [Not 24/7]
+#EXTINF:0 tvg-country="TM" tvg-logo="https://raw.githubusercontent.com/ga3194450-sudo/my-iptv/main/logos/arkadag.jpg" group-title="TM ❖ Turkmenistan",Arkadag TV (406p) [Not 24/7]
 https://alpha.tv.online.tm/legacyhls/ch000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="TM ❖ Turkmenistan",Asgabat TV
 https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
