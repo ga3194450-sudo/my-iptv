@@ -76,15 +76,15 @@ https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-country="KG" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="KG ❖ Kyrgyzstan",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Ala-Too
-https://st2.mediabay.tv/KG_KTRK-Ala-too/index.m3u8?token=11d5acb46f9803f92cecac8dda63ce30c8d0eef6-df80b95fa965d30b411f8be357abca90-1786487565-1786476765';
+https://st2.mediabay.tv/KG_KTRK-Ala-too/index.m3u8?token=423fc8aa2867c5807640b4895304c4fee038f079-8c2426e04687e8239b6c2fbb48fe8d3c-1786488099-1786477299';
 #EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Muzika
-https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8?token=94a72ea0e58fab63163e54869576afdf9c23f27a-a36937f153eff81920a52fc0c718c0c4-1786487568-1786476768';
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8?token=0635cb5cd3e839f2ff29beb9ab41814718f9be25-30b6a74981aaa24fcd739015fffcef6e-1786488101-1786477301';
 #EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Balastan
-https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8?token=54a07e6f994b9aba1276129dbbf4af1396be300c-fee78f8211e24d37ade551059ec8f93e-1786487570-1786476770';
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8?token=b7728412635983421268f8d94c3876380883effd-9a7fbfbf045419cdd16bd10eb0eb45a1-1786488104-1786477304';
 #EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Sport
-https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8?token=297ccf2e845c13314d3155ad891625d19896f7c6-67298c2c1904fedb0a3b8fba27790b99-1786487573-1786476773';
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8?token=34f6706df6c9e681acafcafabbb618b1fb3c9cab-c91fdb0d77216f7f5f7411e21818597a-1786488107-1786477307';
 #EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Madaniyat
-https://st2.mediabay.tv/KG_KTRK-Madaniyat/index.m3u8?token=054d89e2a026d2cfee59d8e0ec453f2d256576a2-cd6262b5119e2c15c52376fb72f93b1c-1786487575-1786476775';
+https://st2.mediabay.tv/KG_KTRK-Madaniyat/index.m3u8?token=424107a8282c55ede1fbffd0c3ab85a42c9bdf46-bbbd1075c24b28aafd3dde9249047d49-1786488110-1786477310';
 #EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="KZ ❖ Kazakhstan",МТРК (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="KZ" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="KZ ❖ Kazakhstan",Abai TV (720p)
