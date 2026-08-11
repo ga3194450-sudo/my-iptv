@@ -749,7 +749,8 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-id="VSBetHD.vn@HD" tvg-logo="https://i.imgur.com/sMhL2Nl.png" tvg-country="VN" group-title="VN ❖ Vietnam",VSBet HD (1080p)
 https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 tvg-country="BN" group-title="BN ❖ Brunei",RTB 1
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; ITEL itel A667LP Build/UP1A.231005.007) IPTV/9.1.25
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2|User-Agent=Mozilla/5.0%20(Linux;%20Android%2014)%20IPTV/9.1.25&Range=bytes=0-
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2026/02/16/large/20260216173959654419_73.png" tvg-country="CN" group-title="CN ❖ China",[BD]cctv-4k高清
 https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2026/02/16/large/20260216173959654419_73.png" tvg-country="CN" group-title="CN ❖ China",[BD]cctv-4k高清
