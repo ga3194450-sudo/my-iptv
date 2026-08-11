@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Ala-Too
+https://st2.mediabay.tv/KG_KTRK-Ala-too/index.m3u8?token=e4bbec323de2d57239c3aa586defee263bdeb055-873ed957725fc120724e750695f5ec6b-1786486251-1786475451';
+#EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Muzika
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8?token=0d14c188c22eed86d0ad40a0ae440be3c2c6c150-67aa0d20252b3c85803a2a64cfa1e15a-1786486255-1786475455';
+#EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Balastan
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8?token=73f98f48abbb352468e3cab0173df3f96b3c1a8c-f73c4ebf03fc8d0c6bba5ad54f45b06e-1786486258-1786475458';
+#EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Sport
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8?token=e48931b1303613a7c1ba2abc368d8c8a3324d5c6-fcb423e507b4866f9205b1910088a661-1786486260-1786475460';
+#EXTINF:-1 tvg-country="KG" group-title="KG ❖ Kyrgyzstan",KTRK Madaniyat
+https://st2.mediabay.tv/KG_KTRK-Madaniyat/index.m3u8?token=dbda47b765a68d6dc64151f6347fe5fe3e9aa557-661066e1727782ea0f1a412cf45598ed-1786486263-1786475463';
