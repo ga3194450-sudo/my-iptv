@@ -906,8 +906,9 @@ https://t.freetv.fun/live/pptv-36.m3u8
 
 
 
-#EXTINF:-1 tvg-country="BT" group-title="BT ❖ Bhutan",BBS Bhutan
-https://www.youtube.com/@bbsbhutan/live
 
 #EXTINF:-1 tvg-country="TL" group-title="TL ❖ Timor-Leste",RTTL Timor-Leste
 https://www.youtube.com/@RTTLNoti%C3%A7ia/live
+
+#EXTINF:-1 tvg-country="BT" group-title="BT ❖ Bhutan",BBS Bhutan
+https://www.youtube.com/@bbsbhutan/live
