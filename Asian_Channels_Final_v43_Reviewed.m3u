@@ -1093,5 +1093,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786684462/ei/
 
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ga3194450-sudo/my-iptv/main/logos/bbs_bhutan.jpg" tvg-country="BT" group-title="BT ❖ Bhutan",BBS Bhutan
-https://www.youtube.com/@bbsbhutan/live
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786730824/ei/6AR_apm3FrL-vdIP3ZfgmQ4/ip/2a02:9b0:8010:2347:3122:680a:2292:528b/id/aVYTlOGgPDk.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-hvcpat-qhh6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhObjX7M4q3Prin7tj8lJs1G5k3EYJPEcCJvyvTSfSshvtKLmh8EkDxbBm75q1Z0qbRSq0rEpkIf/spc/KBGBcmphc4APefUj5hld02gT1Nyn_c5k8oV9G1EsdV5s7YY/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1097500/met/1786709226,/mh/fk/mm/44/mn/sn-hvcpat-qhh6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786708826/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgOvusreAAHcr6ldu0mAps61rGZRcTq6gViT3rEVEuJv8CIQD00EuTEiUQ5_BJddMS3_5EdQMssp2zwb2g3Q8qf4323w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgRX15SWtaOgDT3K1QJah5DYGCah8DZGdSckeqYmjvIeQCIDHoVjdmYUjRIaBJ9wDXTZSAiFW6ywn4lRy-GIipuPe8/playlist/index.m3u8
